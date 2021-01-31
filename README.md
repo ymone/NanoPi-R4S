@@ -1,5 +1,8 @@
 # NanoPi R4S Firmware
 
+## Fork From
+* [LewiVir/NanoPi-R4S](https://github.com/LewiVir/NanoPi-R4S)
+
 ## Tips
 * Default Gateway: 192.168.2.1
 * Default Password: password
